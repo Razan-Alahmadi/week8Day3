@@ -1,0 +1,17 @@
+﻿@model List<week8Day3Task.Models.User>
+
+<h1>Redis Cache Users</h1>
+
+@if (Model == null || !Model.Any())
+{
+    <p>Loading users or no data available...</p>
+}
+else
+{
+    <ul>
+        @foreach (var user in Model)
+        {
+            <li>@user.Name - @user.Email</li>
+        }
+    </ul>
+}

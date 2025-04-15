@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lazy Load Images</title>
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        .user {
+            margin-bottom: 20px;
+        }
+
+        img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Users With Lazy Loaded Images</h1>
+    <button onclick="loadUsers()">Load Users</button>
+    <div id="user-container"></div>
+
+    <script>
+        async function loadUsers() {
+            const res = await fetch('/api/UsersApi/GetUsers');
+            const users = await res.json();
+
+            const container = document.getElementById('user-container');
+            container.innerHTML = '';
+
+            users.forEach((user, index) => {
+                const div = document.createElement('div');
+                div.className = 'user';
+
+                // استخدم موقع pravatar لصورة رمزية لكل مستخدم
+                const img = document.createElement('img');
+                img.src = `https://i.pravatar.cc/150?img=${index + 1}`;
+                img.loading = 'lazy'; // أهم نقطة
+                img.alt = user.name;
+
+                const name = document.createElement('p');
+                name.textContent = `${user.name} - ${user.email}`;
+
+                div.appendChild(img);
+                div.appendChild(name);
+                container.appendChild(div);
+            });
+        }
+    </script>
+</body>
+</html>

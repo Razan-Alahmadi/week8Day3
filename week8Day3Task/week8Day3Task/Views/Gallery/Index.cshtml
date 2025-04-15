@@ -1,0 +1,54 @@
+﻿@model List<week8Day3Task.Models.ImageItem>
+@{
+    ViewData["Title"] = "Image Gallery";
+}
+
+<h2>Lazy Loaded Image Gallery</h2>
+
+<style>
+    .gallery-img {
+        width: 250px;
+        height: auto;
+        margin: 10px;
+    }
+</style>
+
+<div id="gallery">
+    @foreach (var img in Model)
+    {
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
+             data-src="@img.Url"
+             class="gallery-img lazy"
+             alt="@img.FileName" />
+    }
+</div>
+
+@section Scripts {
+    <script>
+        // Lazy loading with IntersectionObserver
+        document.addEventListener("DOMContentLoaded", function () {
+            let lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+            if ("IntersectionObserver" in window) {
+                let observer = new IntersectionObserver(function (entries, obs) {
+                    entries.forEach(function (entry) {
+                        if (entry.isIntersecting) {
+                            let img = entry.target;
+                            img.src = img.dataset.src;
+                            img.classList.remove("lazy");
+                            observer.unobserve(img);
+                        }
+                    });
+                });
+
+                lazyImages.forEach(function (img) {
+                    observer.observe(img);
+                });
+            } else {
+                // fallback
+                lazyImages.forEach(function (img) {
+                    img.src = img.dataset.src;
+                });
+            }
+        });
+    </script>
+}

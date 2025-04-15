@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\views\\gallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\views\\gallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\controllers\\inmemorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\controllers\\inmemorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\services\\inmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\services\\inmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\redisconnectorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\redisconnectorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\views\\redis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\views\\redis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\views\\inmemory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\views\\inmemory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\models\\imageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\models\\imageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\wwwroot\\fetch-users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\wwwroot\\fetch-users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|c:\\users\\rzonh\\desktop\\tp\\week8\\day3hw\\week8day3\\week8day3task\\week8day3task\\week8day3task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55824ECC-F9F3-458D-8EF8-F92B5A4B01F3}|week8Day3Task\\week8Day3Task.csproj|solutionrelative:week8day3task\\week8day3task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Controllers\\RedisController.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "week8Day3Task\\Controllers\\RedisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:08:52.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryController.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\InMemoryController.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Controllers\\InMemoryController.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\InMemoryController.cs",
+              "RelativeToolTip": "week8Day3Task\\Controllers\\InMemoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:35:39.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "week8Day3Task\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:31:06.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Controllers\\GalleryController.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "week8Day3Task\\Controllers\\GalleryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:30:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\Gallery\\Index.cshtml",
+              "RelativeDocumentMoniker": "week8Day3Task\\Views\\Gallery\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\Gallery\\Index.cshtml",
+              "RelativeToolTip": "week8Day3Task\\Views\\Gallery\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T16:33:12.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersApiController.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\UsersApiController.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Controllers\\UsersApiController.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Controllers\\UsersApiController.cs",
+              "RelativeToolTip": "week8Day3Task\\Controllers\\UsersApiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:21:55.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Services\\RedisService.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Services\\RedisService.cs",
+              "RelativeToolTip": "week8Day3Task\\Services\\RedisService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:19:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InMemoryService.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Services\\InMemoryService.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Services\\InMemoryService.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Services\\InMemoryService.cs",
+              "RelativeToolTip": "week8Day3Task\\Services\\InMemoryService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:36:09.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RedisConnectorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\RedisConnectorHelper.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\RedisConnectorHelper.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\RedisConnectorHelper.cs",
+              "RelativeToolTip": "week8Day3Task\\RedisConnectorHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:35:34.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Program.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Program.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Program.cs",
+              "RelativeToolTip": "week8Day3Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:30:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\Redis\\Index.cshtml",
+              "RelativeDocumentMoniker": "week8Day3Task\\Views\\Redis\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\Redis\\Index.cshtml",
+              "RelativeToolTip": "week8Day3Task\\Views\\Redis\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T11:29:25.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\InMemory\\Index.cshtml",
+              "RelativeDocumentMoniker": "week8Day3Task\\Views\\InMemory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\InMemory\\Index.cshtml",
+              "RelativeToolTip": "week8Day3Task\\Views\\InMemory\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:39:48.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Models\\User.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Models\\User.cs",
+              "RelativeToolTip": "week8Day3Task\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:20:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageItem.cs",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Models\\ImageItem.cs",
+              "RelativeDocumentMoniker": "week8Day3Task\\Models\\ImageItem.cs",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Models\\ImageItem.cs",
+              "RelativeToolTip": "week8Day3Task\\Models\\ImageItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:31:38.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "week8Day3Task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "week8Day3Task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T15:12:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fetch-users.html",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\wwwroot\\fetch-users.html",
+              "RelativeDocumentMoniker": "week8Day3Task\\wwwroot\\fetch-users.html",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\wwwroot\\fetch-users.html",
+              "RelativeToolTip": "week8Day3Task\\wwwroot\\fetch-users.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-15T15:29:29.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "week8Day3Task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "week8Day3Task\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T15:12:23.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "week8Day3Task.csproj",
+              "DocumentMoniker": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\week8Day3Task.csproj",
+              "RelativeDocumentMoniker": "week8Day3Task\\week8Day3Task.csproj",
+              "ToolTip": "C:\\Users\\rzonh\\Desktop\\TP\\Week8\\day3HW\\week8Day3\\week8Day3Task\\week8Day3Task\\week8Day3Task.csproj",
+              "RelativeToolTip": "week8Day3Task\\week8Day3Task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T10:32:46.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

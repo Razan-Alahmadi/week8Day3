@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "week8Day3Task.Controllers.UsersApiController",
+    "Method": "GetUsers",
+    "RelativePath": "api/UsersApi/GetUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[week8Day3Task.Models.User, week8Day3Task, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
